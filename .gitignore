@@ -1,0 +1,50 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# IDE specific files
+.vscode/
+.vs/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Compiled Object files
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+Testing/
+.cache/
+
+# vcpkg
+vcpkg_installed/
+
+# Package managers
+conan.lock
+conanbuildinfo.*
+conaninfo.txt
+
+# Generated files
+*.autosave
