@@ -256,8 +256,6 @@ MIT License — см. файл LICENSE для подробностей.
 
 ## 🔗 Ссылки
 
-- [English README](README.md)
-- [Документация API](https://github.com/yourusername/PatternSeeker/wiki)
 - [Примеры использования](https://github.com/yourusername/PatternSeeker/tree/main/examples)
 
 ---
