@@ -51,7 +51,7 @@ cmake --build .
 ### Как подмодуль
 
 ```bash
-git submodule add https://github.com/yourusername/PatternSeeker.git
+git submodule add https://github.com/RakhmaMed/PatternSeeker.git
 # Подключите PatternSeeker.hpp в вашем проекте
 ```
 
